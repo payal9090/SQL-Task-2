@@ -1,0 +1,15 @@
+CustomerID,CustomerName,Email,Phone,Address,DOB
+1,Payal Bhagat,payal@abc.com,8536974523,Mumbai,15-06-2003
+2,Rahul Sharma,rahul@gmail.com,9638527410,Pune,18-08-1998
+3,Neha Verma,,9874561237,Bangalore,14-02-1995
+4,Aman Kumar,aman@xyz.com,,,30-07-2002
+5,Harshita Patel,harshita@gmail.com,9987002569,Ahemdabad,03-12-1999
+6,Aditya Singh,aditya@abc.com,8863012459,Hyderabad,28-06-1997
+7,Simran Kaur,simran@xyz.com,7796550021,Chandigarh,
+8,Anjali Mehra,,,Jaipur,05-06-2001
+9,Ravi Chauhan,ravi@gmail.com,9006544721,Bhopal,23-08-1996
+10,Sakshi Deshmukh,sakshi@abc.com,9812345678,Delhi,15-09-1994
+11,Deepak Rana,,,,
+12,Prem Anand,prem@gmail.com,9887632015,Kerala,18-02-1992
+13,Sanjana Khanna,sanjana@abc.com,9112006850,Goa,20-10-2005
+14,Mihir Patil,mihir@xyz.com,8800654893,Navi Mumbai,21-08-1999
